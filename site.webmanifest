@@ -1,0 +1,23 @@
+  {
+    "name": "Dof Media",
+    "short_name": "Dof Media",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-d0C_O0mrXeY/YLQVHUEqGnI/AAAAAAAAx7k/tJ3KDbg9WKEkRCMqJwrkYUFpziIYR1wGgCLcBGAsYHQ/s0/android-chrome-192x192.png",
+            "sizes": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSygmjvz7IPxf2240TZQwC_x2GRhEwYyhtl_RFZxZ7DNTz5IcP0IZq7XNtO5zc2yTddTw_NW1CnYX0mCR58PW98jfr6b7wIgtODeBoQNdJ_gXstMgmPKW_zuxMAKflHYlhqKApLR0wDp27d7dd_faclAwJIho5U_sEsOFrOrLpCKKJixHRhMaYcFiUNg/s16000/android-chrome-192x192.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-WnA3PC1IzNs/YLQVHTwbu_I/AAAAAAAAx7s/2JmVQL0QGekRlnCa4bzjKhWXOQNMXcLWQCLcBGAsYHQ/s16000/android-chrome-512x512.png",
+            "sizes": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQfanZayYNFPujpaOXcxj9NejMA0-f2blhhvXs8wGbt6J7CzLXeODj2en5Ntj_uR-qqhavzXFITg4p8XBy9pp4kEnLuPHMnI1ODcKneApEdoslyo_XHa7yzJQSbPH6uLL4illiUu_zSfXG3oM4V-L17118g2_3kPd-hQ3O7yPtr78SZci4MhoCHPAHow/s16000/android-chrome-512x512.png",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.dofmedia.com.ng"
+}
